@@ -1,0 +1,119 @@
+
+DSA_TOPIC_CHECKLIST
+
+Legend
+⭐⭐⭐⭐⭐ = Master
+⭐⭐⭐⭐ = Learn Well
+⭐⭐⭐ = Good Understanding
+⭐⭐ = Basic Concept
+
+1. LISTS & ARRAYS ⭐⭐⭐⭐⭐
+Learn:
+- Traversal
+- Insert
+- Delete
+- Update
+- Find Max/Min
+- Second Largest
+- Reverse Array
+- Move Zeros
+- Remove Duplicates
+- Rotate Array
+- Merge Arrays
+- Two Sum
+- Prefix Sum (Basic)
+Practice: 10-15 Problems
+
+2. STRINGS ⭐⭐⭐⭐⭐
+Learn:
+- Reverse
+- Palindrome
+- Anagram
+- Frequency Count
+- Replace
+- Split & Join
+Practice: 8-10 Problems
+
+3. HASH TABLES ⭐⭐⭐⭐⭐
+Learn:
+- Create, Search, Update, Delete
+- Frequency Count
+- Duplicate Detection
+- Two Sum
+
+4. LINEAR SEARCH ⭐⭐⭐⭐
+Learn algorithm and time complexity.
+
+5. BINARY SEARCH ⭐⭐⭐⭐⭐
+Learn:
+- Iterative
+- Recursive
+- Time Complexity
+Practice: 5-6 Problems
+
+6. STACK ⭐⭐⭐⭐
+Learn:
+- Push
+- Pop
+- Peek
+- isEmpty
+
+7. QUEUE ⭐⭐⭐⭐
+Learn:
+- Enqueue
+- Dequeue
+- Front
+- Rear
+
+8. LINKED LIST ⭐⭐⭐⭐
+Learn:
+- Node
+- Traversal
+- Insert
+- Delete
+- Search
+
+9. TREES ⭐⭐⭐
+Learn:
+- Root
+- Parent
+- Child
+- DFS
+- BFS (Basic)
+
+10. BINARY TREES ⭐⭐⭐
+Learn:
+- Preorder
+- Inorder
+- Postorder
+
+11. BINARY SEARCH TREES ⭐⭐⭐
+Learn:
+- Search
+- Insert
+- Delete (Basic)
+
+12. AVL TREES ⭐⭐
+Concept Only
+
+13. GRAPHS ⭐⭐
+Concept Only
+
+14. SORTING ⭐⭐⭐⭐
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Quick Sort
+- Merge Sort
+- Counting Sort (Concept)
+- Radix Sort (Concept)
+
+FOR EVERY TOPIC
+1. Read
+2. Understand
+3. Code
+4. Practice
+5. Explain
+6. Learn Time & Space Complexity
+7. Interview Questions
+8. Git Commit

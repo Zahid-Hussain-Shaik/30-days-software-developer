@@ -1,0 +1,79 @@
+"""
+what is a function? :
+fucntion is block of code , it runs when it calls 
+
+a fucntion writes data as a result 
+
+it use for aviod repeation in code 
+
+
+
+func respect as def() 
+and def is keyword / keyword is reserved word in python
+
+
+
+create a function:
+ 
+def my_first_function():
+    print("my function")
+
+
+here : our fucntion is my_first_fucntion 
+and it print "my function" when we call it
+
+
+
+Calling a function:
+
+we call our function by wrtie its name with paraenthesis ()
+
+
+ex: 
+
+def my_first_function():
+    print("my function")
+
+my_first_function()  # calling the function
+
+
+
+
+
+Function Names :
+
+Function names follow the same rules as variable names in Python:
+
+A function name must start with a letter or underscore
+A function name can only contain letters, numbers, and underscores
+Function names are case-sensitive (myFunction and myfunction are different)
+
+
+
+
+#  why we use function :
+
+imagine we have calclate temperture from fahr to cel , without fucn we need to write many times 
+
+
+ex: 
+temp1 = 73
+
+celsus1= (temp1-32* 5/9)
+
+print(celsus1)
+
+
+
+
+with fucntion: 
+
+
+def fahrenheit_to_celsius(fahrenheit):
+  return (fahrenheit - 32) * 5 / 9
+
+print(fahrenheit_to_celsius(77))
+print(fahrenheit_to_celsius(95))
+print(fahrenheit_to_celsius(50)) 
+
+"""

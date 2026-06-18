@@ -1,0 +1,92 @@
+# TOPICS 
+
+This is the order I would follow
+Phase 1 - Core Python (3 Days)
+Day 1
+✅ Functions
+✅ Scope (Global & Local)
+✅ Lambda
+✅ *args, **kwargs
+
+
+Day 2
+✅ Loops
+✅ List Comprehension
+✅ Dictionary Comprehension
+✅ Sets
+✅ Tuples
+
+
+Day 3
+✅ Exception Handling
+✅ File Handling
+✅ Modules
+✅ Packages
+
+
+Phase 2 - Python for Backend (3 Days)
+
+Day 4
+OOP
+Class
+Object
+Constructor
+Inheritance
+Encapsulation
+Polymorphism
+
+
+
+Day 5
+
+JSON
+Datetime
+UUID
+Virtual Environment
+pip
+
+
+Day 6
+
+
+Iterators
+Generators
+Decorators (Basic)
+Type Hints
+Phase 3 - Database
+
+
+
+Day 7
+
+Python + MySQL
+
+Not only SQL.
+
+Learn:
+
+connect()
+
+cursor()
+
+execute()
+
+fetchone()
+
+fetchall()
+
+commit()
+
+
+
+
+Add (Very Important)
+File Handling
+List, Tuple, Set, Dictionary (quick revision)
+List Comprehensions
+Packages
+Virtual Environment (venv)
+pip
+requirements.txt
+
+These six topics are used constantly in real projects

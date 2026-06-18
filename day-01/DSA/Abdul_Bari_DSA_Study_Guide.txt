@@ -1,0 +1,123 @@
+
+ABDUL BARI DSA PLAYLIST - 30 DAY STUDY GUIDE
+
+Goal:
+Prepare for Python Backend / Software Developer interviews.
+Do NOT watch all 84 videos.
+
+========================================
+⭐⭐⭐⭐⭐ WATCH COMPLETELY
+========================================
+
+1. Algorithm Basics
+- Introduction to Algorithms
+- Characteristics of Algorithms
+- Time Complexity
+- Big O
+- Omega
+- Theta
+
+2. Arrays
+Watch all videos.
+
+Practice:
+- Largest Element
+- Second Largest
+- Reverse Array
+- Move Zeros
+- Remove Duplicates
+- Two Sum
+
+3. Searching
+- Linear Search
+- Binary Search
+
+4. Sorting
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+
+========================================
+⭐⭐⭐⭐ WATCH
+========================================
+
+5. Linked List
+- Introduction
+- Create
+- Traverse
+- Insert
+- Delete
+- Search
+
+6. Stack
+- All basic videos
+
+7. Queue
+- All basic videos
+
+========================================
+⭐⭐⭐ WATCH BASICS ONLY
+========================================
+
+8. Trees
+- Introduction
+- Binary Tree
+- Tree Traversals
+
+9. Binary Search Tree
+- Search
+- Insert
+- Delete (Basic)
+
+10. Recursion
+- Basics only
+
+========================================
+⭐⭐ OPTIONAL (ONLY IF TIME PERMITS)
+========================================
+
+- Heap
+- Priority Queue
+- Hashing
+- Basic Backtracking
+
+========================================
+❌ SKIP FOR NOW
+========================================
+
+- AVL Trees
+- Red Black Trees
+- B Trees
+- B+ Trees
+- Skip Lists
+- Trie
+- Segment Tree
+- Fenwick Tree
+- Disjoint Set (Union Find)
+- Graph Algorithms
+- Dijkstra
+- Bellman Ford
+- Floyd Warshall
+- Prim
+- Kruskal
+- Dynamic Programming
+- Greedy Algorithms
+- Branch and Bound
+- NP Complete
+- Traveling Salesman
+
+========================================
+HOW TO STUDY EACH TOPIC
+========================================
+
+1. Watch Abdul Bari concept video.
+2. Write implementation in Python.
+3. Solve 5-10 problems.
+4. Learn Time & Space Complexity.
+5. Explain the topic in your own words.
+6. Push code to GitHub.
+
+Never binge-watch videos.
+Always code after every topic.

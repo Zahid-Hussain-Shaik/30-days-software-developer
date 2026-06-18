@@ -1,0 +1,210 @@
+PYTHON LEARNING CHECKLIST
+
+1.  FUNCTIONS ⭐⭐⭐⭐⭐ Learn:
+
+-   Basic Functions
+-   Parameters
+-   Arguments
+-   Return
+-   Default Parameters
+-   Keyword Arguments
+-   Scope (Global & Local)
+
+Basic Only: - *args - **kwargs - Lambda - Recursion
+
+Skip for Now: - Positional-only arguments - Keyword-only arguments -
+Advanced function features
+
+------------------------------------------------------------------------
+
+2.  LOOPS ⭐⭐⭐⭐ Learn:
+
+-   for
+-   while
+-   break
+-   continue
+-   pass
+-   Nested Loops
+
+------------------------------------------------------------------------
+
+3.  LIST ⭐⭐⭐⭐⭐ Learn Everything:
+
+-   Create
+-   Access
+-   Update
+-   Delete
+-   Loop
+-   Methods
+-   Slicing
+-   List Comprehension
+
+------------------------------------------------------------------------
+
+4.  TUPLE ⭐⭐⭐ Learn:
+
+-   Create
+-   Access
+-   Packing
+-   Unpacking
+
+No Deep Study Required.
+
+------------------------------------------------------------------------
+
+5.  SET ⭐⭐⭐⭐ Learn:
+
+-   Create
+-   Add
+-   Remove
+-   Union
+-   Intersection
+-   Difference
+
+------------------------------------------------------------------------
+
+6.  DICTIONARY ⭐⭐⭐⭐⭐ Learn:
+
+-   Create
+-   Access
+-   Update
+-   Delete
+-   Loop
+-   Methods
+-   Nested Dictionary
+
+------------------------------------------------------------------------
+
+7.  EXCEPTION HANDLING ⭐⭐⭐⭐⭐ Learn:
+
+-   try
+-   except
+-   else
+-   finally
+-   raise
+
+Basic Only: - Custom Exceptions
+
+------------------------------------------------------------------------
+
+8.  FILE HANDLING ⭐⭐⭐⭐⭐ Learn:
+
+-   open()
+-   read()
+-   write()
+-   append()
+-   with statement
+
+------------------------------------------------------------------------
+
+9.  JSON ⭐⭐⭐⭐ Learn:
+
+-   json.load()
+-   json.loads()
+-   json.dump()
+-   json.dumps()
+
+------------------------------------------------------------------------
+
+10. MODULES ⭐⭐⭐⭐ Learn:
+
+-   import
+-   from import
+-   alias
+-   built-in modules
+-   custom modules
+
+------------------------------------------------------------------------
+
+11. PACKAGES ⭐⭐⭐ Learn:
+
+-   Package Structure
+-   init.py
+-   Import Package
+
+------------------------------------------------------------------------
+
+12. OOP ⭐⭐⭐⭐⭐ Learn:
+
+-   Class
+-   Object
+-   Constructor
+-   Instance Variables
+-   Methods
+-   Inheritance
+-   Encapsulation
+-   Polymorphism
+
+Basic Only: - Abstraction
+
+------------------------------------------------------------------------
+
+13. DATETIME ⭐⭐⭐ Learn:
+
+-   Current Date
+-   Current Time
+-   Formatting
+
+------------------------------------------------------------------------
+
+14. UUID ⭐⭐ Learn:
+
+-   What it is
+-   Generate UUID
+
+------------------------------------------------------------------------
+
+15. VIRTUAL ENVIRONMENT ⭐⭐⭐⭐ Learn:
+
+-   Create
+-   Activate
+-   Deactivate
+
+------------------------------------------------------------------------
+
+16. pip ⭐⭐⭐⭐ Learn:
+
+-   Install Package
+-   Uninstall
+-   Upgrade
+-   Freeze
+
+------------------------------------------------------------------------
+
+17. requirements.txt ⭐⭐⭐⭐ Learn:
+
+-   Create
+-   Install
+
+------------------------------------------------------------------------
+
+18. TYPE HINTS ⭐⭐⭐⭐ Learn:
+
+-   Function Type Hints
+-   Variable Type Hints
+
+------------------------------------------------------------------------
+
+19. ITERATORS ⭐⭐ Concept + One Example
+
+------------------------------------------------------------------------
+
+20. GENERATORS ⭐⭐ Concept + One Example
+
+------------------------------------------------------------------------
+
+21. DECORATORS ⭐⭐ Concept + One Example
+
+------------------------------------------------------------------------
+
+22. PYTHON + MYSQL ⭐⭐⭐⭐⭐ Learn:
+
+-   connect()
+-   cursor()
+-   execute()
+-   fetchone()
+-   fetchall()
+-   fetchmany()
+-   commit()
+-   rollback()
+-   close()
